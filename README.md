@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Matheus (Shiroi)
-- 🔭 My dream is to study Software Engineering when I get older.
+- 🔭 My dream is to graduate in SoftWare Engineering.
 - 👯 My website still under development: [Here](https://shiroidev.com).
 - 💬 I am currently a student of Lua and Java Bukkit programming languages.
 - 📫 **How to find me**: [Hyped Earth](https://discord.gg/puqHAguuc4).
