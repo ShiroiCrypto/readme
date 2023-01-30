@@ -2,10 +2,10 @@
 
 ## Matheus (Shiroi)
 - 🔭 My dream is to study Software Engineering when I get older.
-- 👯 My website still under development:[Here](https://shiroidev.com).
-- 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
-- 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
-- ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
+- 👯 My website still under development: [Here](https://shiroidev.com).
+- 💬 I am currently a student of Lua and Java Bukkit programming languages.
+- 📫 **How to find me**: [Hyped Earth](https://discord.gg/puqHAguuc4).
+- ⚡ **Unbelievable fact**: My first Java Bukkit project was a temporary fly plugin.
 
 <details>
 <summary>
