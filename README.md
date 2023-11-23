@@ -2,9 +2,9 @@
 
 ## Matheus (Shiroi)
 - 🔭 My dream is to graduate in SoftWare Engineering.
-- 👯 My website still under development: [Here](https://shiroidev.com).
+- 👯 My website still under development: [Here](https://discord.gg/tqgmb4JJ).
 - 💬 I am currently a student of Lua and Java Bukkit programming languages.
-- 📫 **How to find me**: [Hyped Earth](https://discord.gg/puqHAguuc4).
+- 📫 **How to find me**: [Sussuros Paranormais]([https://discord.gg/puqHAguuc4](https://discord.gg/tqgmb4JJ)).
 - ⚡ **Unbelievable fact**: My first Java Bukkit project was a temporary fly plugin.
 
 <details>
